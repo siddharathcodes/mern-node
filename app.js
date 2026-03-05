@@ -24,7 +24,7 @@ const fs = require('fs')
 
 const cors = require('cors')
 app.use(cors({
-    origin : 'http://localhost:5173'
+    origin : 'https://mern-node-3lic.onrender.com/'
 }))
 
 
