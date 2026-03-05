@@ -24,7 +24,7 @@ const fs = require('fs')
 
 const cors = require('cors')
 app.use(cors({
-    origin : 'https://mern-node-3lic.onrender.com/'
+    origin : 'https://react-beryl-beta.vercel.app/'
 }))
 
 
