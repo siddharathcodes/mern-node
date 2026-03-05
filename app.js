@@ -24,7 +24,7 @@ const fs = require('fs')
 
 const cors = require('cors')
 app.use(cors({
-    origin : 'https://react-beryl-beta.vercel.app/'
+    origin : 'https://react-rd3k.vercel.app'
 }))
 
 
